@@ -1,4 +1,5 @@
 mod accounts;
+mod core;
 mod errors;
 mod tx;
 
