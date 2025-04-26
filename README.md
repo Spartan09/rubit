@@ -1,5 +1,5 @@
 ![Rubit - Fintech Platform logo](images/rubit.png)
-[![Rust](https://github.com/Spartan09/rubit/actions/workflows/general.yml/badge.svg)](https://github.com/Spartan09/rubit/actions/workflows/general.yml)
+[![Rust](https://github.com/Spartan09/rubit/actions/workflows/general.yml/badge.svg?branch=main)](https://github.com/Spartan09/rubit/actions/workflows/general.yml)
 
 
 # Rubit - Fintech Platform
