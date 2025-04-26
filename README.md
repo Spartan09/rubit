@@ -1,5 +1,5 @@
 ![Rubit - Fintech Platform logo](images/rubit.png)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Spartan09/rubit/general.yml)
+[![Rust](https://github.com/Spartan09/rubit/actions/workflows/general.yml/badge.svg)](https://github.com/Spartan09/rubit/actions/workflows/general.yml)
 
 
 # Rubit - Fintech Platform
